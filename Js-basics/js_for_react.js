@@ -98,7 +98,7 @@ Synchronous vs. Asynchronous:
 
 - Synchronous: Code is executed line by line. The next line doesn't start until the previous one finishes.   
 - Asynchronous: Code can continue to execute while waiting for other operations to complete. This is typically achieved using events, callbacks, promises, or async/await.
-*/  
+*/
 
 // function fetchData(url, callback) {
 //     // Simulate fetching data from a server
@@ -182,4 +182,10 @@ To visualize this better, imagine the code execution as a series of steps:
 
 // ------------------------------------------
 
-// Async + Await + Fetch 
+/* DOM:
+      DOM stands for Document Object Model. it's a programming interface
+      that represents the structure of an HTML or XML document as a tree 
+      of objects. This tree-like structure makes it easy for script (like js)
+      to interact with and manipulate the content and structure of the document.
+*/
+
