@@ -177,7 +177,7 @@ To visualize this better, imagine the code execution as a series of steps:
 
 // map(), filter()
 
-
+// map is a function on an array that allow us to go through the elements and execute a function for each one 
 
 
 // ------------------------------------------
