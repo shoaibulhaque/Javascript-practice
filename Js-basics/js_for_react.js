@@ -32,6 +32,7 @@ Mutability: Can be reassigned. */
 // -------------------------------------------------------------------------------------
 
 /* 3. const
+The const declaration ensures the immutability of the reference var itself, not the data it points to
 Scope: Block-scoped.
 Mutability: Cannot be reassigned (but properties of objects and arrays can be modified).
 */
